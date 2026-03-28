@@ -1,6 +1,5 @@
-# NueroCreative Benchmarker
-
-A/B tests ad creatuves using predicted brain responses from Meta's TRIBE v2 foundation model.
+# NueroEngagement Intelligence Platfrom
+Designing and measuring a content engagement metric end-to-end – combining Reddit behavioral signals at scale with Meta's TRIBE v2 neural predictions.
 
 ## Overview
 NueroCreative Benchmarker is an experimentation pipeline that predicts fMRI brain responses to video, audio, or text stmuli using Meta AI Research TRIBE v2 foundation model - and uses those predictions to statistically compare two creatives (A vs. B).
