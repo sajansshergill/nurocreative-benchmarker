@@ -1,6 +1,9 @@
 # NueroEngagement Intelligence Platfrom
 Designing and measuring a content engagement metric end-to-end – combining Reddit behavioral signals at scale with Meta's TRIBE v2 neural predictions.
 
+## Dashboard:
+https://lnkd.in/eWRzHFGS
+
 ## Overview
 NueroEngagement Intelligence Platform is an end-to-end product data science project that answers one question:
 >> What drives content engagement – and can predicted brain responses explain variance that behavioral signals alone cannot?
