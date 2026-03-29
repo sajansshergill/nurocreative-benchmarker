@@ -1,0 +1,14 @@
+# Local datasets (large DB + raw dumps; SQL lives under pipeline/sql/)
+data/raw/
+data/processed/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+
+# OS / editor
+.DS_Store

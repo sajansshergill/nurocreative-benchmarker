@@ -278,6 +278,25 @@ Tests cover:
 ✅ Temporal holdout validation (train Q1, test Q2)
 ✅ Alognauts 2025 benchamrk integration
 
+## Install dependencies
+pip install duckdb zstandard
+```
+
+For the torrent download, install **qBittorrent** (GUI) from [qbittorrent.org](https://www.qbittorrent.org/download) — free, no account needed.
+
+---
+
+### Step 2 — Download only the 3 subreddits you need
+
+Go to this URL:
+**https://academictorrents.com/details/1614740ac8c94505e4ecb9d88be8bed7b6afddd4**
+
+Click **Download Torrent** → open in qBittorrent → when it asks which files to download, **search for and select only:**
+```
+technology_submissions.zst
+gadgets_submissions.zst
+apple_submissions.zst
+
 ## 📄 License & Attribution
 This project is for non-commercial, research, and portfolio use only.
 TRIBE v2 component built on facebookresearch/tribev2 by Meta AI Research, licensed under CC BY-NC 4.0.
