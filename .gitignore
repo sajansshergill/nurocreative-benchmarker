@@ -1,6 +1,4 @@
-# Local datasets (large DB + raw dumps; SQL lives under pipeline/sql/)
-data/raw/
-data/processed/
+# Large raw/processed data is tracked via Git LFS (see .gitattributes).
 
 # Python
 __pycache__/
